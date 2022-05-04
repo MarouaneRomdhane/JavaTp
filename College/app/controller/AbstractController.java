@@ -1,3 +1,3 @@
-class AbstractController{
+class abstract AbstractController{
 
 }

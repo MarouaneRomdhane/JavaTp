@@ -1,0 +1,3 @@
+class abstract AbstractPerson{
+
+        }
